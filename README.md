@@ -13,20 +13,14 @@ A ready-to-use child theme boilerplate for [Clesk Starter](https://github.com/tr
 1. Copy this theme into `wp-content/themes/`:
    ```bash
    cd wp-content/themes
-   git clone https://github.com/troesner-clesk/clesk-starter-child.git my-project
+   git clone https://github.com/troesner-clesk/clesk-starter-child.git
    ```
 
-2. Update the theme header in `style.css`:
-   ```css
-   Theme Name: My Project
-   Template: clesk-starter
-   ```
+2. Activate the child theme in **Appearance > Themes**
 
-3. Activate the child theme in **Appearance > Themes**
+3. Edit `custom.css` to set your design tokens — no build step required
 
-4. Edit `custom.css` to set your design tokens — no build step required
-
-5. Configure components in **Clesk Framework** admin page
+4. Configure components in **Clesk Framework** admin page
 
 ## Customization
 
@@ -129,4 +123,4 @@ GPL-2.0-or-later. See [LICENSE](LICENSE).
 
 ## Credits
 
-Built by [Clesk Digital](https://clesk.de). Requires the [Clesk Starter](https://github.com/troesner-clesk/clesk-starter) parent theme.
+Built by [Clesk Digital GmbH](https://clesk.de). Requires the [Clesk Starter](https://github.com/troesner-clesk/clesk-starter) parent theme.
